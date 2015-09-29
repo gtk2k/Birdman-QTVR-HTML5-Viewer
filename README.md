@@ -1,5 +1,5 @@
 # Birdman-QTVR-HTML5-Viewer
-鳥人間コンテストページに掲載されているプラットフォーム360パノラマ静止画をHTML5で見るChrome拡張機能です。
+鳥人間コンテストの[ページ](http://www.ytv.co.jp/birdman/special/index.html)に掲載されているプラットフォーム360パノラマ静止画をHTML5で見るChrome拡張機能です。
 
 ##拡張機能インストール
 ウェブストアからインストールします。
