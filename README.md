@@ -1,20 +1,20 @@
 # Birdman-QTVR-HTML5-Viewer
-鳥人間コンテストの[ページ](http://www.ytv.co.jp/birdman/special/index.html)に掲載されているプラットフォーム360パノラマ静止画をHTML5で見るChrome拡張機能です。
+鳥人間コンテストの[ページ](http://bit.ly/1YLsVWU)に掲載されているプラットフォーム360パノラマ静止画をHTML5で見るChrome拡張機能です。
 
 ##拡張機能インストール
-ウェブストアからインストールします。
+[ウェブストア](http://bit.ly/1NYQ4js)からインストールします。
 
 ##操作説明
-http://www.ytv.co.jp/birdman/special/index.html
-のページにアクセスして、各プラットフォームの画像をクリックすると、HTML5パノラマビューワーが表示されます。
+鳥人間コンテストの[ページ](http://bit.ly/1YLsVWU)にアクセスして、各プラットフォームの画像をクリックすると、HTML5パノラマビューワーが表示されます。
 マウスでぐりぐり視線方向を操作できます。
-
 
 ##Oculus Riftでの鑑賞　
 Oculus Riftでも観賞することができます。  
 ですが、Chrome WebVRビルド版が必要となります。  
 ただし、Chrome WebVRビルド版はOculusランタイム0.7には対応しておりません。  
 ver0.5かver0.6のランタイムをインストールしていただくことで観賞することが可能です。
+[Oculus Dowonloads](https://developer.oculus.com/downloads/)ページより、古いバージョンをダウンロードすることができます。
+
 ###観賞手順
 1. Oculus Runtime 0.7をインストールしていればアンインストールします。  
 (アンインストールするとマシン再起動が要求されますのでマシンの再起動を行います。)
