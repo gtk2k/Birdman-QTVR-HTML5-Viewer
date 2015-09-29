@@ -13,7 +13,7 @@ Oculus Riftでも観賞することができます。
 ですが、Chrome WebVRビルド版が必要となります。  
 ただし、Chrome WebVRビルド版はOculusランタイム0.7には対応しておりません。  
 ver0.5かver0.6のランタイムをインストールしていただくことで観賞することが可能です。
-[Oculus Dowonloads](https://developer.oculus.com/downloads/)ページより、古いバージョンをダウンロードすることができます。
+[Oculus Dowonloads](https://developer.oculus.com/downloads/)ページで、古いバージョンのSDKやランタイム等をダウンロードすることができます。
 
 ###観賞手順
 1. Oculus Runtime 0.7をインストールしていればアンインストールします。  
