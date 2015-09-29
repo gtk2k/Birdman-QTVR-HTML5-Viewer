@@ -1,0 +1,24 @@
+{
+  "name": "鳥人間コンテストプラットフォーム　360°パノラマ写真ビューワー",
+  "description": "鳥人間コンテストプラットフォーム　360°パノラマ写真をHTML5でみる拡張機能です。ただし、QTVRのCubicタイプの静止画のみ対応。",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "permissions": [
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.ytv.co.jp/birdman/special/index.html"
+      ],
+      "all_frames": true,
+      "js": [
+        "three.min.js",
+        "MouseKeyboardController.js",
+        "sequentialReader.js",
+        "movParser.js",
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
